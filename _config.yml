@@ -2,6 +2,8 @@ title: 'Voices'
 email: mail@brennanbrown.ca
 description: >-
   a Minneapolis community newspaper 
+#A responsive sidebar Jekyll theme using the Pure.css framework,  designed for
+  writers and bloggers of all kinds.
 baseurl: ''
 url: ''
 repository: brennanbrown/purelog

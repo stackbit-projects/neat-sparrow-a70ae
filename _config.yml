@@ -8,7 +8,8 @@ url: ''
 repository: brennanbrown/purelog
 twitter: brennankbrown
 github: brennanbrown
-header_image: assets/profile.png
+#header_image: assets/profile.png
+header_image: assets/sw.jpg
 google_analytics: null
 comments: true
 disqus: purelog-jekyll
